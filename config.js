@@ -2,7 +2,7 @@
    about: {
      image:
        "https://avatars.githubusercontent.com/u/45903404?s=400&u=28dc977de05600b699a5390941395d038c9d1985&v=4",
-     name: "skillzl",
+     name: "fadhli",
      job: "self-thought programmer",
      description: "🌊 - 神奈川沖浪裏",
      socialLinks: [
@@ -28,7 +28,7 @@
          name: "Instagram",
          color: "purple",
          icon: "fab fa-instagram",
-         to: "https://www.instagram.com/bnrcatalin/",
+         to: "https://www.instagram.com/itspapoy/",
        },
        {
          name: "Steam",
@@ -40,11 +40,11 @@
    },
    projects: [
      {
-       name: "b1gcheats",
+       name: "jadwal",
        description:
          "Community with a free range of resources and designs for popular games and more.",
        status: 3,
-       to: "https://github.com/b1gcheats",
+       to: "https://jadwalkt1.vercel.app",
      },
      {
        name: "chrlwv-project",
